@@ -5,7 +5,7 @@ Web App - To - Do - List é uma aplicação web com o estilo minimalista e é de
 <br/>
 <br/>
 
-### Design Modal - Main Page
+### Design Main Page
 <br/>
 
 ![Tela Principal](img/Main_Page.jpg)
